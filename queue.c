@@ -29,6 +29,7 @@ struct Node *create_queue() {
 	q->PTop = q->PTail;
 	return q;
 }
+//patch
 
 //入队列，在尾部插入
 bool push_queue(struct Queue *q, char data) {
