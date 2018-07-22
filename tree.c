@@ -83,3 +83,7 @@ int main(void) {
 	return 0;
 }
 //test
+
+int rebase() {
+	return 0;
+}
