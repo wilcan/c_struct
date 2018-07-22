@@ -101,3 +101,7 @@ int Lenth_list(PNODE pHead) {
 
 	return i;
 }
+
+//test1
+//test2
+//test3
